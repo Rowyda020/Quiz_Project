@@ -1,5 +1,5 @@
 # Quiz_Project
-![Screenshot from 2023-05-24 21-53-24](https://github.com/Rowyda020/Quiz_Project/assets/76496105/5f525c0e-cbdd-49eb-8263-231b193303c2)
-![Screenshot from 2023-05-24 21-53-29](https://github.com/Rowyda020/Quiz_Project/assets/76496105/bb8661e9-a098-4d0b-ad97-a797fa44d3da)
-![Screenshot from 2023-05-24 21-53-32](https://github.com/Rowyda020/Quiz_Project/assets/76496105/189071db-b7aa-4023-bfaa-037c85c9108d)
-![Screenshot from 2023-05-24 21-53-34](https://github.com/Rowyda020/Quiz_Project/assets/76496105/a6234fdc-bfbe-42ae-8011-05355d0d9ae4)
+![Screenshot from 2023-05-26 22-10-22](https://github.com/Rowyda020/Quiz_Project/assets/76496105/ced1a0f8-2e1e-4f46-a7a4-4920dc0afe28)
+![Screenshot from 2023-05-26 22-10-28](https://github.com/Rowyda020/Quiz_Project/assets/76496105/566491a0-d122-4960-a86d-2b76cd4a128d)
+![Screenshot from 2023-05-26 22-10-37](https://github.com/Rowyda020/Quiz_Project/assets/76496105/dff3a2e1-d497-4301-9759-07e3a0a5d506)
+![Screenshot from 2023-05-26 22-10-40](https://github.com/Rowyda020/Quiz_Project/assets/76496105/f72b6fd2-61c5-4a23-a560-685e501dd497)
